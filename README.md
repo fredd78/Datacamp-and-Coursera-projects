@@ -1,2 +1,2 @@
 # Datacamp
-Проекты из курса Datacamp анализ данных на Python
+Проекты из курса Datacamp "Анализ данных на Python"
